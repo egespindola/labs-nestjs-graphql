@@ -1,0 +1,9 @@
+db/maria_data/*/ 
+db/mongo_data/*/
+
+db/maria_data/* 
+db/mongo_data/*
+
+**/node_modules/
+**/dist/
+**/.env
